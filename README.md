@@ -1,6 +1,6 @@
 ### Yo, stranger! 👋
 - 🧠 I'm python developer
-- 🔭 I’m currently working on [@Telestat](https://github.com/Telestat/telestat)
+- 🔭 I’m currently working on [@Telestat](https://github.com/Telestat)
 - 🌱 I’m currently learning **Rust** language
 - ⚡ **Fun fact**: living in the woods
 <!--
