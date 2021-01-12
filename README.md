@@ -7,6 +7,8 @@
 - https://soulport.ru/
 - https://rsw-systems.com/news/skyway-token
 - https://visitech.ru/module/el_admission
+- https://geniepay.io/ *(DEAD)*
+- https://ton-foundation.org/
 <!--
 **ObsidianDestroyer/ObsidianDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
