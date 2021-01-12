@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [@Telestat](https://github.com/Telestat)
 - 🌱 I’m currently learning **Rust** language
 - ⚡ **Fun fact**: living in the woods
-#### Contributor of projects:
+#### Taken part in the following projects/teams:
 - https://soulport.ru/
 - https://rsw-systems.com/news/skyway-token
 - https://visitech.ru/module/el_admission
