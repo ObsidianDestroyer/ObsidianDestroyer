@@ -9,6 +9,8 @@
 - https://visitech.ru/module/el_admission
 - https://geniepay.io/ *(DEAD)*
 - https://ton-foundation.org/
+- https://telestat.tech/
+- https://robotkarl.ru/
 <!--
 **ObsidianDestroyer/ObsidianDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
