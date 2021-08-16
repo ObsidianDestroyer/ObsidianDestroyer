@@ -1,6 +1,6 @@
 ### Yo, stranger! 👋
-- 🧠 I'm python developer
-- 🔭 I’m currently working on [@Telestat](https://github.com/Telestat)
+- 🧠 I'm Python developer
+- 🔭 I’m currently working on [@Fronttier](https://www.fronttier.ru/)
 - 🌱 I’m currently learning **Rust** language
 - ⚡ **Fun fact**: living in the woods
 #### Participated in the following projects/team membership:
