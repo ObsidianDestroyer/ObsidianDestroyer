@@ -6,7 +6,7 @@
 #### Participated in the following projects/team membership:
 - https://soulport.ru/                      | Full-stack developer
 - https://rsw-systems.com/news/skyway-token | Python backend developer
-- https://visitech.ru/module/el_admission   | Python QA & TS backend developer
+- https://visitech.ru/                      | Python QA & TS backend developer
 - https://geniepay.io/ *(DEAD)*             | Python backend developer
 - https://ton-foundation.org/               | Eco-system researcher & Python developer
 - https://telestat.tech/                    | Python backend developer
