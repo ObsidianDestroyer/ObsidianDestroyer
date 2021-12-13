@@ -1,6 +1,6 @@
 ### Yo, stranger! 👋
 - 🧠 I'm Python developer
-- 🔭 I’m currently working on [@Fronttier](https://www.fronttier.ru/)
+- 🔭 I’m currently working on [FIX](https://www.fix.ru/)
 - 🌱 I’m currently learning **Rust** language
 - ⚡ **Fun fact**: living in the woods
 #### Participated in the following projects/team membership:
@@ -11,7 +11,9 @@
 - https://ton-foundation.org/               | Eco-system researcher & Python developer
 - https://telestat.tech/                    | Python backend developer
 - https://robotkarl.ru/                     | Python backend devoloper & data-engineer
-- https://www.fronttier.ru/ _(Nowadays)_    | Data-engineer
+- https://www.fronttier.ru/                 | Data-engineer
+- https://www.fronttier.ru/                 | Python backend developer
+- https://www.fix.ru/                       | Python backend developer
 <!--
 **ObsidianDestroyer/ObsidianDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
