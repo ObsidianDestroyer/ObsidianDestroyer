@@ -12,8 +12,8 @@
 - https://telestat.tech/                    | Python backend developer
 - https://robotkarl.ru/                     | Python backend devoloper & data-engineer
 - https://www.fronttier.ru/                 | Data-engineer
-- https://www.fronttier.ru/                 | Python backend developer
-- https://www.fix.ru/                       | Python backend developer
+- https://www.fronttier.ru/                 | Senior python backend developer
+- https://www.fix.ru/                       | Senior python backend developer
 <!--
 **ObsidianDestroyer/ObsidianDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
