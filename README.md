@@ -1,6 +1,6 @@
 ### Yo, stranger! 👋
 - 🧠 I'm Python developer
-- 🔭 I’m currently working on [FIX](https://www.fix.ru/)
+- 🔭 I’m currently working on [Wildberries](https://www.wildberries.ru/)
 - 🌱 I’m currently learning **Go** language
 - ⚡ **Fun fact**: living in the woods
 #### Participated in the following projects/team membership:
